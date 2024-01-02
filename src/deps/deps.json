@@ -230,10 +230,10 @@
       "commit": "91e30eb05085e7f9762f130cbb883a0e753cf74d"
     },
     {
-      "id": "open-appsec",
-      "name": "openappsec v1.1.3",
-      "url": "https://github.com/openappsec/openappsec",
-      "commit": "dfff43d4c1db637311e89fea84ea2e899ffb9790"
+      "id": "openappsec-attachment",
+      "name": "open-appsec attachment v?",
+      "url": "https://github.com/openappsec/attachment",
+      "commit": "bf4b0f5a2637274077d8cc3e5befd84716dabff8"
     },
     {
       "id": "stream-lua-nginx-module",

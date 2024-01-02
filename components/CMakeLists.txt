@@ -1,0 +1,12 @@
+add_subdirectory(report_messaging)
+add_subdirectory(http_manager)
+add_subdirectory(generic_rulebase)
+add_subdirectory(signal_handler)
+add_subdirectory(gradual_deployment)
+add_subdirectory(packet)
+add_subdirectory(pending_key)
+add_subdirectory(health_check_manager)
+
+add_subdirectory(utils)
+add_subdirectory(attachment-intakers)
+add_subdirectory(security_apps)
